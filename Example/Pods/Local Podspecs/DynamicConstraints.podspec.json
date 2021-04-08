@@ -1,0 +1,22 @@
+{
+  "name": "DynamicConstraints",
+  "version": "0.1.0",
+  "summary": "A short description of DynamicConstraints.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mbabilal1@gmail.com/DynamicConstraints",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mbabilal1@gmail.com": "mbabilal1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mbabilal1@gmail.com/DynamicConstraints.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DynamicConstraints/Classes/**/*"
+}

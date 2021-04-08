@@ -1,0 +1,16 @@
+PODS:
+  - DynamicConstraints (0.1.0)
+
+DEPENDENCIES:
+  - DynamicConstraints (from `../`)
+
+EXTERNAL SOURCES:
+  DynamicConstraints:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DynamicConstraints: 1cdf783e83a4fc363ba2bbf02cdfa9bf7fd96f98
+
+PODFILE CHECKSUM: 929d1c81b9b4d7df09b293931f28e5cffb332ab2
+
+COCOAPODS: 1.10.1

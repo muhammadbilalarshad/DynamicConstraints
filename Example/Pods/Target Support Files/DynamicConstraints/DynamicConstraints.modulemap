@@ -1,0 +1,6 @@
+framework module DynamicConstraints {
+  umbrella header "DynamicConstraints-umbrella.h"
+
+  export *
+  module * { export * }
+}
