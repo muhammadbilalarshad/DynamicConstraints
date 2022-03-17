@@ -9,8 +9,6 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Usage
-Just got to a constraint's class through property inspector and change the class to vertical or horizontal dynamic constraint class. Now you constraint will change itself according to the overall screen size of the iPhone
 ## Installation
 
 DynamicConstraints is available through [CocoaPods](https://cocoapods.org). To install
@@ -19,6 +17,9 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'DynamicConstraints'
 ```
+
+## Usage
+Just go to any constraint's class through property inspector and change the class to vertical or horizontal dynamic constraint class. Now your constraint will change itself according to the overall screen size of the iPhone
 
 ## Author
 
